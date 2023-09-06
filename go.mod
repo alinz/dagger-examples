@@ -1,4 +1,4 @@
-module github.com/alinz/dagger-mini-docs
+module github.com/alinz/dagger-examples
 
 go 1.21.0
 
